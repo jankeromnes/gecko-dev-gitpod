@@ -1,5 +1,3 @@
-# gecko-dev in Gitpod
-
 This repository is about developing [Firefox](https://github.com/mozilla/gecko-dev) in [Gitpod.io](https://www.gitpod.io/).
 
 ## Latest Snapshot
