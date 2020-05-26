@@ -1,0 +1,13 @@
+{
+   "cpp.buildConfigurations": [
+      {
+         "name": "Debug",
+         "directory": "/workspace/gecko-dev/obj-x86_64-pc-linux-gnu"
+      }
+   ],
+   "cpp.clangdArgs": "--background-index --compile-commands-dir=/workspace/gecko-dev/obj-x86_64-pc-linux-gnu",
+   "cpp.clangdExecutable": "/usr/bin/clangd",
+   "cpp.clangTidy": true,
+   "cpp.clangTidyChecks": "*",
+   "cpp.trace.server": "verbose"
+}
