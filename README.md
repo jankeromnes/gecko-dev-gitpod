@@ -2,7 +2,7 @@ This repository is about developing [Firefox](https://github.com/mozilla/gecko-d
 
 ## Latest Snapshot
 
-Here is the latest Firefox Gitpod Snapshot:
+Here is the latest Firefox Gitpod snapshot:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#snapshot/87193118-dcb0-4589-9218-cba8edc71474)
 
