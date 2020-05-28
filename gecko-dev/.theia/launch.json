@@ -2,5 +2,14 @@
   // Use IntelliSense to learn about possible attributes.
   // Hover to view descriptions of existing attributes.
   "version": "0.2.0",
-  "configurations": []
+  "configurations": [
+      {
+          "type": "gdb",
+          "request": "launch",
+          "name": "Debug Firefox (GDB)",
+          "target": "./obj-x86_64-pc-linux-gnu/dist/bin/firefox",
+          "cwd": "${workspaceRoot}",
+          "valuesFormatting": "parseText"
+      }
+  ]
 }

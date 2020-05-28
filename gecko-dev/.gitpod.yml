@@ -9,3 +9,7 @@ ports:
 tasks:
   - init: ./mach build && ./mach build-backend -b CompileDB
     command: ./mach run
+
+vscode:
+  extensions:
+    - webfreak.debug@0.25.0:1RYXlY/ZLAfnftc0HaYsDQ==
