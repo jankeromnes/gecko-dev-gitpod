@@ -1,6 +1,6 @@
 This repository is about developing [Firefox](https://github.com/mozilla/gecko-dev) in [Gitpod.io](https://www.gitpod.io/).
 
-<img width="600" alt="Developing Firefox in Gitpod.io" src="https://user-images.githubusercontent.com/599268/85171838-12389200-b270-11ea-8a9a-b15a6f889777.png">
+<img width="800" alt="Developing Firefox in Gitpod.io" src="https://user-images.githubusercontent.com/599268/85171838-12389200-b270-11ea-8a9a-b15a6f889777.png">
 
 ## Latest Snapshot
 
