@@ -4,8 +4,8 @@ This repository is about developing [Firefox](https://github.com/mozilla/gecko-d
 
 ## Latest Snapshot
 
-Here is the latest Firefox Gitpod snapshot (updated: 2020-08-05):
+Here is the latest Firefox Gitpod snapshot (updated: 2021-02-11):
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#snapshot/e214bf61-3301-4538-8176-279dba8d0f95)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#snapshot/94cff8a8-96e3-4327-a842-24071b31b525)
 
 Click to get a fresh, pre-configured, and fully pre-compiled Firefox checkout in < 3 minutes.
