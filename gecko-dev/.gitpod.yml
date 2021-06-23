@@ -12,4 +12,6 @@ tasks:
 
 vscode:
   extensions:
-    - webfreak.debug@0.25.0:1RYXlY/ZLAfnftc0HaYsDQ==
+    - dbaeumer.vscode-eslint
+    - esbenp.prettier-vscode
+    - webfreak.debug
